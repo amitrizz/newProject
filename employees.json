@@ -1,0 +1,74 @@
+[
+  {
+    "id": "wmnno2hgltrr7sn1",
+    "fullname": "Ami",
+    "age": 23,
+    "dob": "2000-10-15",
+    "salary": 15000,
+    "department": "Production"
+  },
+  {
+    "id": "wmnno8e8ltrr82ko",
+    "fullname": "Rahul",
+    "age": 23,
+    "dob": "2000-10-15",
+    "salary": 15000,
+    "department": "Sales"
+  },
+  {
+    "id": "wmnno7s0ltrtqvjq",
+    "fullname": "srk",
+    "age": 15,
+    "dob": "2004-10-16",
+    "salary": 15000,
+    "department": "Field"
+  },
+  {
+    "id": "wmnno59gltru710d",
+    "fullname": "sum",
+    "age": 25,
+    "dob": "2004-08-21",
+    "salary": 12000,
+    "department": "IT"
+  },
+  {
+    "id": "wmnnocq0ltrw0xsx",
+    "fullname": "atul",
+    "age": 25,
+    "dob": "2004-07-10",
+    "salary": 15000,
+    "department": "Sales"
+  },
+  {
+    "id": "wmnnods8ltwbs80z",
+    "fullname": "sumit",
+    "age": 20,
+    "dob": "2004-08-28",
+    "salary": 2500,
+    "department": "Production"
+  },
+  {
+    "id": "wmnnocv0ltwcav46",
+    "fullname": "rajat",
+    "age": 20,
+    "dob": "2003-09-13",
+    "salary": 15000,
+    "department": "Production"
+  },
+  {
+    "id": "wmnno71oltwcdmkx",
+    "fullname": "rishi",
+    "age": 21,
+    "dob": "2002-05-11",
+    "salary": 15200,
+    "department": "Production"
+  },
+  {
+    "id": "wmnno9uoltwces76",
+    "fullname": "krish",
+    "age": 20,
+    "dob": "2003-08-02",
+    "salary": 14000,
+    "department": "Field"
+  }
+]
